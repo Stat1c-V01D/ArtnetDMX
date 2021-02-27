@@ -1,6 +1,6 @@
 /*
- Name:		ArtnetDMX.ino
- Created:	27.02.2021 23:38:44
+ Name:		ArtnetTransmitter.ino
+ Created:	27.02.2021 23:39:34
  Author:	Kai
 */
 
